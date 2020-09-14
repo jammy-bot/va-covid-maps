@@ -1,5 +1,5 @@
 # va-covid-maps
-Geospatial data exploration, based on my previous repository: https://github.com/jammy-bot/va-covid-eda
+Geospatial data exploration, based on my previous repository: https://github.com/jammy-bot/va-covid-eda.
 
 In notebooks at the [va-covid-eda](https://github.com/jammy-bot/va-covid-eda) github repository, we explore how cases of Coronavirus, consequent hospitalizations, and related deaths in Virginia's Hampton Roads region compare to those reported in other areas of the state, including the state's capital city of Richmond. We relied on interactive plotting with Plotly Express, to visualize data for multiple localities (including population data) on a single figure, with the option to hover or drill - down for greater detail (link to [Featured Notebooks](https://github.com/jammy-bot/va-covid-eda#featured-notebooks)).
 
